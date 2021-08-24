@@ -2,7 +2,7 @@
 # Imports
 
 # fixed variables
-from src.customer import *
+
 import logging
 
 

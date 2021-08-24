@@ -2,6 +2,7 @@ import configparser
 from pyspark import SparkConf
 import os
 
+
 def get_app_config():
     config = configparser.ConfigParser()
     config.read("/home/prasanta/PycharmProjects/pythonProject/src/spark.conf")
